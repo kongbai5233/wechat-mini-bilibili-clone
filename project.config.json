@@ -41,7 +41,7 @@
     "userConfirmedBundleSwitch": false,
     "minifyWXSS": true
   },
-  "appid": "wxbd553f922f3675a9",
+  "appid": "wxbd553f92XXXXXXa9",
   "projectname": "quickstart-wx-cloud",
   "libVersion": "latest",
   "cloudfunctionTemplateRoot": "cloudfunctionTemplate/",
